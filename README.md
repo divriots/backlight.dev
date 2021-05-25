@@ -1,5 +1,5 @@
-# design-systems.dev
+# backlight.dev
 
-Design Systems - Developer side
+Design Systems, Code-side
 
-https://design-systems.dev
+https://backlight.dev
